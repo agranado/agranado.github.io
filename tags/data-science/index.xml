@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science on Home</title>
+    <link>https://agranado.github.io/tags/data-science/</link>
+    <description>Recent content in data science on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://agranado.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter sentiment analysis using spaCy</title>
+      <link>https://agranado.github.io/projects/usingtwitterapi/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/usingtwitterapi/</guid>
+      <description>&lt;p&gt;This project consists of the following steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create spacy pipeline using linear regression model&lt;/li&gt;
+&lt;li&gt;Train the pipeline with data from IMDB reviews&lt;/li&gt;
+&lt;li&gt;Download 3k tweets for a specified Twitter user&lt;/li&gt;
+&lt;li&gt;Use the pipeline to predict sentiment for each tweet&lt;/li&gt;
+&lt;li&gt;Visualize sentiment as time series using a 7-day moving average&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>LSTM time-series forecasting</title>
+      <link>https://agranado.github.io/projects/lstm_timeseriesforecast/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/lstm_timeseriesforecast/</guid>
+      <description>&lt;p&gt;This project consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read data for stock prices since Jan 2000. We are using Microsoft stock.&lt;/li&gt;
+&lt;li&gt;Transforming the time-series data into a classification problem.&lt;/li&gt;
+&lt;li&gt;Stacked LSTM model with TensorFlow&lt;/li&gt;
+&lt;li&gt;Accuracy in forecasting measured by MSE&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>A gaming laptop for Data Science and ML?</title>
+      <link>https://agranado.github.io/post/gaming_laptop_ml/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/post/gaming_laptop_ml/</guid>
+      <description>&lt;p&gt;For a long time, gaming laptops were known for being extravagant, expensive, large, noisy, prone to overheating, and expensive. Crafted for a specific market of consumers that value the video game experience more than reality, these powerful machines had really no other use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Clubes de Ciencia Mexico</title>
+      <link>https://agranado.github.io/post/2019-10-01-clubes-de-ciencia-mexico/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/post/2019-10-01-clubes-de-ciencia-mexico/</guid>
+      <description>A Data Science workshop for analysis of biological data.
+Ciencia de datos. Datos de células. ¿Células de datos? Hoy en día es casi imposible no escuchar hablar de datos. Los datos están en todos lados y nos ayudan a entender y predecir cómo funcionan las cosas. En este club aprenderemos conceptos clave de la ciencia de datos como clustering y reducción de dimensionalidad en el contexto de la expresión genética de células.</description>
+    </item>
+    
+  </channel>
+</rss>

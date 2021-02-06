@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://agranado.github.io/projects/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://agranado.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter sentiment analysis using spaCy</title>
+      <link>https://agranado.github.io/projects/usingtwitterapi/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/usingtwitterapi/</guid>
+      <description>&lt;p&gt;This project consists of the following steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create spacy pipeline using linear regression model&lt;/li&gt;
+&lt;li&gt;Train the pipeline with data from IMDB reviews&lt;/li&gt;
+&lt;li&gt;Download 3k tweets for a specified Twitter user&lt;/li&gt;
+&lt;li&gt;Use the pipeline to predict sentiment for each tweet&lt;/li&gt;
+&lt;li&gt;Visualize sentiment as time series using a 7-day moving average&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>LSTM time-series forecasting</title>
+      <link>https://agranado.github.io/projects/lstm_timeseriesforecast/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/lstm_timeseriesforecast/</guid>
+      <description>&lt;p&gt;This project consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read data for stock prices since Jan 2000. We are using Microsoft stock.&lt;/li&gt;
+&lt;li&gt;Transforming the time-series data into a classification problem.&lt;/li&gt;
+&lt;li&gt;Stacked LSTM model with TensorFlow&lt;/li&gt;
+&lt;li&gt;Accuracy in forecasting measured by MSE&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Financial data acquisition with R</title>
+      <link>https://agranado.github.io/projects/financedata/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/financedata/</guid>
+      <description>&lt;p&gt;The stock market is a complex system with multiple interesting attributes for data science: dynamics, correlations and stochastic behaviour.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

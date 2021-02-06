@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stocks on Home</title>
+    <link>https://agranado.github.io/tags/stocks/</link>
+    <description>Recent content in stocks on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://agranado.github.io/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Financial data acquisition with R</title>
+      <link>https://agranado.github.io/post/financedata/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/post/financedata/</guid>
+      <description>&lt;p&gt;The stock market is a complex system with multiple interesting attributes for data science: dynamics, correlations and stochastic behaviour.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Financial data acquisition with R</title>
+      <link>https://agranado.github.io/projects/financedata/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/financedata/</guid>
+      <description>&lt;p&gt;The stock market is a complex system with multiple interesting attributes for data science: dynamics, correlations and stochastic behaviour.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
