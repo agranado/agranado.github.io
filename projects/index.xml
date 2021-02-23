@@ -47,5 +47,14 @@
       <description>&lt;p&gt;The stock market is a complex system with multiple interesting attributes for data science: dynamics, correlations and stochastic behaviour.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>COVID19 Cases in Real time</title>
+      <link>https://agranado.github.io/projects/covid19_analysis/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/projects/covid19_analysis/</guid>
+      <description>&lt;p&gt;The dataset: Time series data for COVID19 worldwide. Updated daily. This analysis builds up on the amazing work and ideas by  &lt;a href=&#34;https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca&#34;&gt;Tomas Pueyo&lt;/a&gt;. Pueyo&amp;rsquo;s original publication features a &lt;a href=&#34;https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv&#34;&gt;public dataset&lt;/a&gt; compiled by John Hopkins University.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
