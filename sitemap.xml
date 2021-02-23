@@ -87,6 +87,13 @@
   </url>
   
   <url>
+    <loc>https://agranado.github.io/projects/covid19_analysis/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://agranado.github.io/post/2019-10-01-clubes-de-ciencia-mexico/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
