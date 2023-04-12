@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Home</title>
+    <title>Posts on Home</title>
     <link>https://agranado.github.io/post/</link>
-    <description>Recent content in Articles on Home</description>
+    <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://agranado.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combinatorial gene expression motifs</title>
+      <link>https://agranado.github.io/post/motifs/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/post/motifs/</guid>
+      <description>&lt;p&gt;Cell-cell signaling pathways comprise sets of variant receptors that are expressed in different combinations in different cell types. This architecture allows one pathway to be used in a variety of configurations, which could provide distinct functional capabilities, such as responding to different ligand variants. While individual pathways have been well-studied, we have lacked a comprehensive understanding of what receptor combinations are expressed and how they are distributed across cell types.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>A gaming laptop for Data Science and ML?</title>
       <link>https://agranado.github.io/post/gaming_laptop_ml/</link>

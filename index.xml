@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alejandro Granados on Home</title>
+    <title>Normalizing data on Home</title>
     <link>https://agranado.github.io/</link>
-    <description>Recent content in Alejandro Granados on Home</description>
+    <description>Recent content in Normalizing data on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://agranado.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://agranado.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combinatorial gene expression motifs</title>
+      <link>https://agranado.github.io/post/motifs/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/post/motifs/</guid>
+      <description>&lt;p&gt;Cell-cell signaling pathways comprise sets of variant receptors that are expressed in different combinations in different cell types. This architecture allows one pathway to be used in a variety of configurations, which could provide distinct functional capabilities, such as responding to different ligand variants. While individual pathways have been well-studied, we have lacked a comprehensive understanding of what receptor combinations are expressed and how they are distributed across cell types.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Twitter sentiment analysis using spaCy</title>
       <link>https://agranado.github.io/projects/usingtwitterapi/</link>
@@ -110,9 +119,21 @@ Ciencia de datos. Datos de células. ¿Células de datos? Hoy en día es casi im
       
       <guid>https://agranado.github.io/contact/</guid>
       <description>Alejandro Granados
-agranado@caltech.edu
-Los Angeles, CA.
+alejandro.granados@czbiohub.org
+San Francisco, CA.
    Platform URL     Medium: https://alejandro-gc.medium.com/   GitHub: https://github.com/agranado   LinkedIn: https://www.linkedin.com/in/alejandro-granados-c/    </description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://agranado.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agranado.github.io/papers/</guid>
+      <description>Peer reviewed publications
+[1] Lange M., Granados AA, et. al. (2023). Zebrahub: Multimodal Zebrafish Developmental Atlas Reveals the State Transition Dynamics of Late Vertebrate Pluripotent Axial Progenitors. Biorxiv. (Under review, Nature)
+[2] Granados AA, Bucher S., et. al (2022). Comprehensive characterization of the transcriptional response to COVID-19 in multiple organs reveals shared signatures across tissues. eLife (accepted).
+[3] Tabula Sapiens Consortium (2022). The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans.</description>
     </item>
     
   </channel>
