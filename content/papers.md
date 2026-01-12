@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+url: "/papers/"
 layout: "single"
 ---
 
