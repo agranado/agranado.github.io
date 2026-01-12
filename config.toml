@@ -1,0 +1,52 @@
+baseURL = "https://agranado.github.io/"
+languageCode = "en-us"
+title = "Alejandro Granados"
+theme = "PaperMod"
+
+[params]
+  description = "Computational Biologist | AI-Augmented Scientific Discovery"
+  author = "Alejandro A. Granados, Ph.D."
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Alejandro Granados"
+    Content = "Principal Data Scientist building AI systems for biological discovery. I design LLM-agent pipelines that combine deterministic bioinformatics with language model reasoning."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/agranado"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/agranado"
+
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/citations?user=sK4RI6wAAAAJ"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Publications"
+    url = "/papers/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
